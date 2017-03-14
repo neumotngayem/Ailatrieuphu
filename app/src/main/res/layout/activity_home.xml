@@ -44,7 +44,7 @@
         android:layout_below="@id/btnScore"
         android:layout_centerHorizontal="true"
         android:background="@drawable/custom_button"
-        android:text="CHƠI GAME"
+        android:text="THOÁT"
         android:textSize="40dp"
         android:id="@+id/btnExit"
         android:layout_marginTop="50dp"
